@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(7,44,144,1) 0%, rgba(6,75,164,1) 0%, rgba(5,109,187,1) 24%, rgba(0,212,255,1) 60%);
+}
+
+.jumbotron-custom {
+    margin-top: 75px;
+}
+.logo {
+    font-size: 30px;
+    color:#fff;
+    font-family: monotype corsiva;
+    font-weight: bold;
+    /* border-bottom: 1px solid white; */
+    box-shadow: 1px 2px 10px 5px white;
+    border-radius: 50px;
+    width: 40%;
+    margin: auto;
+    padding: 15px;
+}
+.logo img {
+    box-shadow: 0px 0px 5px 5px #eee;
+    border-radius: 50%;
+}
+.btn-custom:hover {
+    box-shadow: 1px 2px 5px 5px #eee;
+    color: white;
+}
+.btn-custom {
+    color: white;
+    font-family: monotype corsiva;
+    font-weight: bold;
+    font-size: 25px;
+    width: 150px;
+    margin: 0px 50px;
+}
